@@ -17,7 +17,9 @@ Education
 Work experience
 ======
 **PrivacyMap**, Brazil
+
 _Founder and Content Creator_
+
 08/2020 – Currently (Full Time – Remote)
   * Privacy & Cybersecurity Content Creator; Creator and maintainer of open-source tools for online privacy
 and security.
@@ -25,18 +27,23 @@ and security.
   * Independent Researcher and creator of security and privacy training and courses.
 
 **Bitcoin Block – Web3 & Blockchain News**, Brazil
+
 _Columnist_
+
 12/2022 – 09/2023 (Part Time – Remote)
   * Security and privacy columnist on blockchains, web3, cryptography and decentralized protocols.
 
 **SiDi (Samsung Development Institute for Informatics)**, Campinas, Brazil
+
 _Software Security Analyst_
+
 01/2021 – 07/2022 (Full Time – Onsite)
 * Security assessments on smartphones, smartwatches and embedded applications. Static and Dynamic analysis of exported components, inter-process communication, cryptography.
 * Penetration Testing & Development of proof of concept of found vulnerabilities.
 * Code review and secure design for Web Applications, Android, WearOS and iOS.
 
 _Information Security Analyst_
+
 07/2019 – 12/2020 (Full Time – Onsite)
 * Monitoring and Threat Detection: Monitoring network and system activities to identify suspicious behavior or malicious activity
 * Vulnerability Analysis: Recognizing weaknesses in systems and applications, evaluating their potential impact, and proposing solutions to mitigate risks.
